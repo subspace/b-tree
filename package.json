@@ -4,7 +4,7 @@
   "description": "Generic B-Tree implementation",
   "main": "dist/btree.umd.js",
   "module": "dist/btree.esm.js",
-  "types": "types/index.d.ts",
+  "types": "dist/index.d.ts",
   "directories": {
     "test": "test"
   },
